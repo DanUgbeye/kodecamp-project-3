@@ -33,7 +33,7 @@ const Users = () => {
 
       { 
         loading && (
-          <div className={ " absolute top-[50%] translate-y-[-50%] w-full grid place-items-center text-purple-200 text-3xl font-semibold " }>
+          <div className={ " absolute top-[50%] translate-y-[-50%] w-full max-w-[80vw] grid place-items-center text-purple-200 text-3xl font-semibold " }>
             loading...
           </div>
         )
