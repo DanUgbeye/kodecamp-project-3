@@ -1,5 +1,5 @@
-# KodeCamp Intermediate React Track Project 2
-    A simple form that stores form values in state and shows them to the user when they submit the form
-
+# KodeCamp Intermediate React Track Project 3
+    A simple pages that consumes and displays users fetched from the [jsonplaceholder] (https://jsonplaceholder.typicode.com/) API
+    
 ## GitHub Pages Link
 [kodecamp project 3](https://danugbeye.github.io/kodecamp-project-3/)
