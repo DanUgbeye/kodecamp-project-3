@@ -29,7 +29,7 @@ const Users = () => {
     }, []);
 
   return (
-    <div className=' flex flex-col items-center'>
+    <div className=' flex flex-col items-center md:grid md:grid-cols-2 gap-8 '>
 
       { 
         loading && (
